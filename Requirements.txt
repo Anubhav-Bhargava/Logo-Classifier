@@ -1,0 +1,20 @@
+################################################################
+#
+# Python package requirements for the LOGO Classification:
+#
+# If you are using Anaconda then you can install all required
+# Python packages by running the following commands in a shell:
+#
+#     conda create --name tf python
+#     pip install -r requirements.txt
+#
+################################################################
+# Packages used:
+
+numpy
+pandas
+matplotlib
+scikit-learn
+cv2
+scipy
+keras
