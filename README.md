@@ -13,9 +13,17 @@ It is trained on [Flickr Logos 27 dataset](http://image.ntua.gr/iva/datasets/fli
 >All dependencies are mentioned in Requirements.txt 
 
 # Demo
-![Demo](https://github.com/Anubhav-Bhargava/Logo-Classifier/tree/master/gifs/a.gif)
 
-![Demo](https://github.com/Anubhav-Bhargava/Logo-Classifier/tree/master/gifs/b.gif)
+
+A gif showing single Pepsi bottle
+
+![Demo](gifs/b.gif)
+
+
+A gif showing multiple brand bottles
+
+
+![Demo](gifs/a.gif)
 
 # Algorithms
 
