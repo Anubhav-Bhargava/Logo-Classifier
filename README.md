@@ -1,6 +1,6 @@
 # Logo-Classifier
 
-This code Pepse company logos in a given image.
+This python code is used to recognize Pepsi company logos in a given image.
 
 # Dataset
 
